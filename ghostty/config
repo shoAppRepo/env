@@ -19,3 +19,7 @@ clipboard-write = allow
 clipboard-trim-trailing-spaces = true
 macos-titlebar-style = tabs
 window-new-tab-position = current
+
+# 通知
+desktop-notifications = true
+
